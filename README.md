@@ -1,3 +1,5 @@
 # GERENCIAMENTO DE USUÁRIO
 
-> Estudando e desenvolvendo um gerenciamento de usuário junto com o HCODE.
+> Utilizando metodos de armazenamento de LocalStorage.
+> Inserindo, Editando e Deletando formulários.
+> Upando e trocando imagens.
